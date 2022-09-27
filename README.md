@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1m3Kun&show_icons=true&theme=radical)
 
-#### 🌱 I’m currently learning Python! % JAVA!
+#### 🌱 I’m currently learning Python! & JAVA!
 
 ### HISTORY
 
