@@ -18,7 +18,7 @@
 
 ### Aproach
 
-<a href="https://www.instagram.com/seongku05/" target="_blank"><img src="https://img.shields.io/badge/LIMEKUN-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/lim3kun/" target="_blank"><img src="https://img.shields.io/badge/LIMEKUN-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/sungku2757@gmail.com-EA4335?style=for-the-badge&logo=GMAIL&logoColor=ffffff"/>
 
 
