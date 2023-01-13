@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=400&section=header&text=Welcome&desc=Seong-Gu`s%20Memorial&descAlign=80&descAlignY=65&stroke=ffffff&animation=fadeIn&fontSize=80&fontColor=fffff0" />
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=400&section=header&text=Welcome&desc=Seong-Gu`s%20Memorial&descAlign=80&descAlignY=65&stroke=ffffff&animation=fadeIn&fontSize=80&fontColor=fffff0" />
+
 
 📲 APPROACH 📲
   <br/>
@@ -32,6 +33,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCad-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/>
 
   
   
