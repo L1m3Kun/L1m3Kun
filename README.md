@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=400&section=header&text=Welcome&desc=Seong-gu`s%20Memorial&descAlign=80&descAlignY=65&stroke=ffffff&animation=fadeIn&fontSize=80&fontColor=fffff0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=400&section=header&text=Welcome&desc=Seong-Gu`s%20Memorial&descAlign=80&descAlignY=65&stroke=ffffff&animation=fadeIn&fontSize=80&fontColor=fffff0" />
 <div align="center">
 
 📲 APPROACH 📲
