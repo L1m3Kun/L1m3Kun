@@ -1,14 +1,51 @@
-# Kang Seong-Gu :grinning:
-## Now in SSAFY!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=400&section=header&text=Welcome&desc=Seong-gu`s%20Memorial&descAlign=80&descAlignY=65&stroke=ffffff&animation=fadeIn&fontSize=80&fontColor=fffff0" />
+<div align="center">
+
+📲 APPROACH 📲
+  <br/>
+<a href="https://www.instagram.com/sungku05/" target="_blank"><img src="https://img.shields.io/badge/sungku05-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/castlenine0076@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+  <br/>
+  
+  💻 PROJECT IMAGES 💻 <br/>
+<a href="https://www.instagram.com/lim3kun/" target="_blank"><img src="https://img.shields.io/badge/L1mekun-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  
+## 👏 Now in SSAFY! 👏
 [![SSAFY](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gLsznyvXmyYnfvz44cJJOt1vtoFwuNfgYeZIapie_g&s)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun)](https://github.com/ryo-ma/github-profile-trophy)
 
-### :telephone_receiver: APPROACH 
-<a href="https://www.instagram.com/lim3kun/" target="_blank"><img src="https://img.shields.io/badge/Lim3kun-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
-<!--
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235491C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+<details markdwon="1">
+  <summary><h3>📜Tech Stack 📜</h3></summary>
+
+#### 💡 Learning Now 💡
+<img src="https://img.shields.io/badge/JAVA-FC4C02?style=flat-square&logo=J&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+ 
+#### 🚀 Try at least once🚀
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
+  
+  
+### ⚒️ Cowork & Used Tool ⚒️
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/>
+  </details>
+ 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+  <!--
 **L1m3Kun/L1m3Kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -26,3 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
