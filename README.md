@@ -45,7 +45,7 @@
  
   |||
   |---|---|
- | <div align="center">  [![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)</div>|[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungku2757)](https://solved.ac/sungku2757)
+ | <div align="center">  [![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)</div>|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungku2757)](https://solved.ac/sungku2757)
   
   <!--
 **L1m3Kun/L1m3Kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
