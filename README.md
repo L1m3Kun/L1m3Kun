@@ -5,7 +5,7 @@
 📲 APPROACH 📲
   <br/>
 <a href="https://www.instagram.com/sungku05/" target="_blank"><img src="https://img.shields.io/badge/sungku05-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/castlenine0076@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/castlenine0076@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   <br/>
   
