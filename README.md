@@ -47,10 +47,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/>
   </details>
  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+ |JAVA|PYTHON|
+ |---|---|
+ |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limejava)](https://solved.ac/limejava)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungku2757)](https://solved.ac/sungku2757)|
   
- 
- | <div align="center">  [![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)</div>|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungku2757)](https://solved.ac/sungku2757)
-  |---|---|
 
 
   <!--
