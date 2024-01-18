@@ -9,13 +9,7 @@
 
   <br/>
   
-  💻 PROJECT IMAGES 💻 <br/>
-<a href="https://www.instagram.com/lim3kun/" target="_blank"><img src="https://img.shields.io/badge/L1mekun-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
-## 👏 Now in SSAFY! 👏
-[![SSAFY](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gLsznyvXmyYnfvz44cJJOt1vtoFwuNfgYeZIapie_g&s)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-
-
+  💻 SSAFY 9기 💻 <br/>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L1m3Kun/hit-counter&count_bg=%235491C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
