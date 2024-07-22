@@ -70,9 +70,9 @@
 <hr/>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)
-|JAVA|PYTHON|
+|JAVASCRIPT|PYTHON|
 |---|---|
-|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limejava)](https://solved.ac/limejava)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungku2757)](https://solved.ac/sungku2757)|
+|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksk0076)](https://solved.ac/ksk0076)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungku2757)](https://solved.ac/sungku2757)|
   
 
 
