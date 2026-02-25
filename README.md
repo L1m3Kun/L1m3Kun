@@ -8,7 +8,7 @@
  <a href="sungku2757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sungku2757@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L1m3Kun/hit-counter&count_bg=%235491C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FL1m3Kun?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 ---
 <details markdwon="1" open>
@@ -64,7 +64,7 @@
  
 <hr/>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=L1m3Kun&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)
 |JAVASCRIPT|PYTHON|
 |---|---|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksk0076)](https://solved.ac/ksk0076)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungku2757)](https://solved.ac/sungku2757)|
