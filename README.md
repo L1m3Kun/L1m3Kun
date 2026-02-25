@@ -5,7 +5,7 @@
 📲 APPROACH 📲
   <br/>
 <a href="https://www.instagram.com/seongku05/" target="_blank"><img src="https://img.shields.io/badge/seongku05-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
- <a href="sungku2757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/castlenine0076@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="sungku2757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sungku2757@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/L1m3Kun/hit-counter&count_bg=%235491C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
